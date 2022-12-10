@@ -1,0 +1,9 @@
+.nav{
+    background-color: #DC134C;
+    width: 100%;
+}
+ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
