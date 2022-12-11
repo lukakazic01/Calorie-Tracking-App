@@ -7,3 +7,7 @@ ul{
     padding: 0px;
     margin: 0px;
 }
+.nuxt-link{
+    text-decoration: none;
+    color: white;
+}
