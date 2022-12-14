@@ -31,5 +31,5 @@
 </script>
 
 <style scoped>
-  @import "./CalorieTable.css";
+  
 </style>
